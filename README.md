@@ -1,9 +1,6 @@
 <h1 align="center">Hi 👋, I'm David Andrés Rueda Chacón</h1>
 <h3 align="center">A passionate estudient fullstack from Colombia</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=davidruc&label=Profile%20views&color=0e75b6&style=flat" alt="davidruc" /> </p>
-
-
 - 🌱 I’m currently learning **Javascript**
 
 <p align="left">
