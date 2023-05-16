@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm David Andrés Rueda Chacón</h1>
 <h3 align="center">A passionate estudient fullstack from Colombia</h3>
 
-- 🌱 I’m currently learning **Javascript**
+- 🌱 I’m currently learning **Javascript** and **php**
 
 <p align="left">
 </p>
