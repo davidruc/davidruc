@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=davidruc&label=Visits&color=a10eb4&style=plastic" alt="davidruc" /> </p>
 
-- 🌱 I’m currently learning **Node.js and netcore**
+- 🌱 I’m currently learning **Node.js, MySQL, mongoDB and React.js**
 
 - 💬 Ask me about **vanilla php, SQL and Javascript**
 
